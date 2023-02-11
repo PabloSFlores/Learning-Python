@@ -35,6 +35,18 @@ print(type([10,20,30,40]))
 ['Hello','Bye','Pablo']
 [10,"aaa",True,20.5]
 
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+print(letters)
+# replace some values
+letters[2:5] = ['C', 'D', 'E']
+print(letters)
+# now remove them
+letters[2:5] = []
+print(letters)
+# clear the list by replacing all the elements with an empty list
+letters[:] = []
+print(letters)
+
 # Tuples - Mutables
 print("-- Tuples --")
 print((10,20,30,55))

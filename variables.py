@@ -13,7 +13,7 @@ x, book = 100, 'el alquimista'
 #Const - ConvensiónS
 PI = 3.1416
 
-#dinamyc
+#dynamic
 owo = 'xd'
 owo = 3
 owo = []
