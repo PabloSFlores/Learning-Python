@@ -2,7 +2,7 @@
 Opciones para los Archivos:
 - x -> Crear si no existe, de lo contrario devuelve un error
 - w -> Crea el archivo si no existe, si ya existe, sobreecribe su contenido. 
-- w -> Crea el archivo si no existe, si ya existe, añade el nuevo texto a su contenido. 
+- a -> Crea el archivo si no existe, si ya existe, añade el nuevo texto a su contenido. 
 
 Escritura y lectura
 - r -> Abre el archivo solo en modo de lectura
